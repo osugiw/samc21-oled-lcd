@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: SAMC21_OLED_I2C_128X64
+folderName: SAMC21_OLED_I2C_128X64
+frameworkPath: D:\Self-Learning\learn-microchip\harmony
+processor: ATSAMC21J18A
+projectName: SAMC21_OLED_I2C_128X64
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\SAMC21_DFP\3.8.119\samc21\atdf\ATSAMC21J18A.atdf
